@@ -1,0 +1,10 @@
+{
+  "t2": {
+    "situation": "Vous voulez vous inscrire à un atelier de poterie près de chez vous. Vous posez des questions au responsable de l'atelier pour connaître les horaires, les tarifs et le matériel nécessaire.",
+    "role": "le responsable de l'atelier de poterie",
+    "pistes": ["horaires", "tarifs", "matériel", "niveau requis", "nombre de participants"]
+  },
+  "t3": {
+    "sujet": "« Chaque quartier devrait avoir un jardin partagé. » Qu'en pensez-vous ?"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "score_global": 9.5,
+  "nclc": "NCLC 6",
+  "fourchette": "8–10 / 20",
+  "objectif_atteint": false,
+  "verdict": "Task fulfilment is good in Tâches 1 and 3, but the end of Tâche 2 doesn't answer the question. Accents on short words and relative pronouns keep the score just below NCLC 7.",
+  "taches": [
+    {
+      "id": "t1",
+      "note": 10,
+      "mots": "84 words (limit 60–120) — ok",
+      "mots_ok": true,
+      "adequation_ok": true,
+      "adequation": [
+        "Greets the friend and gives the date and place of the party."
+      ],
+      "ce_qui_marche": "Clear invitation with all the requested details.",
+      "erreurs": [
+        {
+          "categorie": "Spelling",
+          "faux": "Je t'attends a la gare",
+          "correct": "Je t'attends à la gare",
+          "regle": "The preposition « à » takes a grave accent; « a » is the verb avoir.",
+          "recurrent": false,
+          "pattern_slug": "accent-preposition-a",
+          "nouveau_titre": "Missing accent on the preposition à"
+        }
+      ],
+      "version_corrigee": "Salut Marie,\nJe t'attends à la gare samedi à midi.",
+      "version_b2": "Chère Marie,\nJe serais ravi de t'accueillir samedi : je t'attendrai à la gare dès midi."
+    },
+    {
+      "id": "t2",
+      "note": 9,
+      "mots": "131 words (limit 120–150) — ok",
+      "mots_ok": true,
+      "adequation_ok": false,
+      "adequation": [
+        "The conclusion does not answer the question asked in the prompt."
+      ],
+      "ce_qui_marche": "Good use of the passé composé in the narrative.",
+      "erreurs": [
+        {
+          "categorie": "Relative pronouns",
+          "faux": "les gens qui je connais",
+          "correct": "les gens que je connais",
+          "regle": "Use « que » when the relative pronoun is the direct object of the verb.",
+          "recurrent": false,
+          "pattern_slug": "qui-que",
+          "nouveau_titre": "qui / que confusion"
+        }
+      ],
+      "version_corrigee": "J'ai rencontré les gens que je connais depuis l'école.",
+      "version_b2": "J'ai retrouvé des amis que je connais depuis l'école primaire."
+    },
+    {
+      "id": "t3",
+      "note": 9.5,
+      "mots": "Partie 1: 48 · Partie 2: 95 — ok",
+      "mots_ok": true,
+      "adequation_ok": true,
+      "adequation": [
+        "Both documents are summarised; the opinion is clear."
+      ],
+      "ce_qui_marche": "The opinion is supported by a concrete example.",
+      "erreurs": [],
+      "version_corrigee": "Partie 1:\nLes deux documents parlent du télétravail.\n\nPartie 2:\nÀ mon avis, le télétravail est utile.",
+      "version_b2": "Partie 1:\nLes deux documents abordent le télétravail sous des angles opposés.\n\nPartie 2:\nÀ mon sens, le télétravail constitue un progrès, à condition de préserver le lien social."
+    }
+  ],
+  "priorites": [
+    {
+      "titre": "Accents on short words",
+      "detail": "Reread every « a / à » before submitting."
+    },
+    {
+      "titre": "Relative pronouns",
+      "detail": "Ask: is the pronoun the subject (qui) or the object (que)?"
+    },
+    {
+      "titre": "Answer the question",
+      "detail": "Check the last paragraph against the prompt."
+    }
+  ]
+}

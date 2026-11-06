@@ -1,0 +1,84 @@
+{
+  "score_global": 10.5,
+  "nclc": "NCLC 7",
+  "cecr": "B2",
+  "fourchette": "9–11 / 20",
+  "objectif_atteint": true,
+  "verdict": "Developed answers and a convincing point of view reach NCLC 7. A few agreement errors and a narrow vocabulary are what to work on next.",
+  "taches": [
+    {
+      "id": "t1",
+      "note": 11,
+      "adequation_ok": true,
+      "adequation": [
+        "Introduces themself with details about work and hobbies."
+      ],
+      "interaction": "Answers each question with two or three sentences.",
+      "fluidite": "About 110 words per minute with few hesitations.",
+      "lexique": "Everyday vocabulary, adequate.",
+      "ce_qui_marche": "Develops each answer instead of replying with one word.",
+      "erreurs": [
+        {
+          "categorie": "Agreement",
+          "faux": "les journées sont long",
+          "correct": "les journées sont longues",
+          "regle": "The adjective agrees in gender and number with the noun.",
+          "recurrent": false,
+          "pattern_slug": "accord-adjectif",
+          "nouveau_titre": "Adjective agreement"
+        }
+      ],
+      "reformulations": [
+        {
+          "original": "je fais du sport beaucoup",
+          "ameliore": "je fais beaucoup de sport"
+        }
+      ],
+      "version_b2": "— Je m'appelle Alex et je travaille dans une boulangerie depuis cinq ans."
+    },
+    {
+      "id": "t2",
+      "note": 10,
+      "adequation_ok": true,
+      "adequation": [
+        "Asks about price, schedule and conditions."
+      ],
+      "interaction": "Varied questions with inversion and est-ce que.",
+      "fluidite": "Steady pace.",
+      "lexique": "Precise for the situation.",
+      "ce_qui_marche": "Opens and closes the conversation politely.",
+      "erreurs": [],
+      "reformulations": [],
+      "version_b2": "— Bonjour, je voudrais quelques renseignements sur l'inscription, s'il vous plaît."
+    },
+    {
+      "id": "t3",
+      "note": 10.5,
+      "adequation_ok": true,
+      "adequation": [
+        "Clear position with two arguments and an example."
+      ],
+      "interaction": "Structured with connectors (d'abord, ensuite, en revanche).",
+      "fluidite": "Fills most of the time.",
+      "lexique": "Some repetition of « important ».",
+      "ce_qui_marche": "The counter-argument makes the position more convincing.",
+      "erreurs": [],
+      "reformulations": [],
+      "version_b2": "À mon avis, il s'agit d'une évolution positive, même si elle comporte des risques."
+    }
+  ],
+  "priorites": [
+    {
+      "titre": "Agreement",
+      "detail": "Check adjective endings after être."
+    },
+    {
+      "titre": "Vocabulary range",
+      "detail": "Replace « important » with essentiel, primordial, décisif."
+    },
+    {
+      "titre": "Timing",
+      "detail": "Keep talking until the end of Tâche 3."
+    }
+  ]
+}

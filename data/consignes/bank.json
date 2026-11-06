@@ -1,0 +1,369 @@
+{
+ "version": 1,
+ "t1": [
+  {
+   "id": "bank-t1-001",
+   "texte": "Vous organisez un pique-nique au parc pour l'anniversaire d'une amie. Écrivez un message à vos amis pour les inviter : précisez la date, le lieu et ce que chacun peut apporter. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-002",
+   "texte": "Vous avez trouvé un chat dans votre rue. Écrivez un message pour le tableau d'affichage de votre immeuble : décrivez l'animal et indiquez comment vous contacter. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-003",
+   "texte": "Un nouveau collègue commence à travailler dans votre équipe lundi prochain. Écrivez-lui un message pour lui souhaiter la bienvenue et lui donner des informations pratiques sur sa première journée. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-004",
+   "texte": "Vous avez lu une annonce pour un vélo d'occasion. Écrivez au vendeur pour lui poser des questions sur l'état du vélo, le prix et la possibilité de l'essayer. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-005",
+   "texte": "Un ami vient vous rendre visite dans votre ville pour la première fois. Écrivez-lui un message pour lui expliquer comment venir de l'aéroport jusqu'à chez vous. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-006",
+   "texte": "Vous ne pourrez pas assister au cours de yoga de jeudi. Écrivez un message à votre professeure pour l'en informer, expliquer pourquoi et proposer une solution. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-007",
+   "texte": "Vous partez en vacances pendant deux semaines. Écrivez un message à votre voisin pour lui demander d'arroser vos plantes et de récupérer votre courrier. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-008",
+   "texte": "Vous voulez créer un club de lecture dans votre quartier. Écrivez un message pour le site de la bibliothèque afin de présenter le projet et d'inviter les habitants à la première réunion. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-009",
+   "texte": "Une amie vous a aidé à déménager le week-end dernier. Écrivez-lui un message pour la remercier et l'inviter à dîner chez vous. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-010",
+   "texte": "Vous cherchez une personne pour garder votre enfant deux soirs par semaine. Rédigez une annonce : précisez les horaires, les tâches et les qualités recherchées. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-011",
+   "texte": "Vous avez acheté un appareil en ligne et il ne fonctionne pas. Écrivez un message au service client pour décrire le problème et demander un échange ou un remboursement. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-012",
+   "texte": "Un ami veut apprendre à cuisiner. Écrivez-lui un message pour lui conseiller un cours que vous avez suivi : lieu, prix, ambiance. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-013",
+   "texte": "Vous organisez une collecte de vêtements pour une association. Écrivez un message à vos collègues pour leur présenter le projet et leur expliquer comment participer. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-014",
+   "texte": "Vous avez oublié votre sac dans un restaurant hier soir. Écrivez un message au restaurant pour décrire le sac et demander s'il a été retrouvé. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-015",
+   "texte": "Une amie vous demande des conseils pour trouver un logement dans votre ville. Écrivez-lui un message avec des conseils pratiques : quartiers, recherche, budget. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-016",
+   "texte": "Vous voulez louer une salle pour une fête de famille. Écrivez au propriétaire de la salle pour demander les disponibilités, le prix et les conditions de location. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-017",
+   "texte": "Votre équipe de soccer amateur cherche de nouveaux joueurs. Rédigez une annonce pour présenter l'équipe, les entraînements et la manière de s'inscrire. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-018",
+   "texte": "Vous avez gagné deux billets pour un concert. Écrivez un message à un ami pour l'inviter : précisez le groupe, la date et le lieu de rendez-vous. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-019",
+   "texte": "Vous ne pouvez pas aller au mariage de votre cousin. Écrivez-lui un message pour vous excuser, le féliciter et lui proposer de vous voir plus tard. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-020",
+   "texte": "Vous vendez vos meubles avant de déménager. Rédigez une annonce : décrivez les meubles, indiquez les prix et les jours où l'on peut venir les voir. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-021",
+   "texte": "Vous souhaitez faire du bénévolat dans un refuge pour animaux. Écrivez un message au refuge pour vous présenter et demander des informations. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-022",
+   "texte": "Vos amis veulent faire une randonnée ce week-end. Écrivez-leur un message pour proposer un itinéraire, une heure de départ et le matériel à prendre. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-023",
+   "texte": "Vous avez reçu une invitation à une soirée d'anciens élèves. Répondez à l'organisatrice pour accepter, poser des questions pratiques et proposer votre aide. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-024",
+   "texte": "Votre propriétaire doit faire des travaux dans votre appartement. Écrivez-lui un message pour proposer des dates qui vous conviennent et demander combien de temps dureront les travaux. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-025",
+   "texte": "Une collègue est malade depuis une semaine. Écrivez-lui un message pour prendre de ses nouvelles et lui raconter ce qui s'est passé au bureau. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-026",
+   "texte": "Vous voulez échanger des cours de langue avec une personne francophone. Rédigez une annonce pour présenter votre proposition et vos disponibilités. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-027",
+   "texte": "Vous organisez une sortie au musée avec des amis. Écrivez-leur un message pour proposer une date, présenter l'exposition et donner le prix des billets. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-028",
+   "texte": "Vous avez perdu les clés de votre voiture au centre sportif. Écrivez un message à l'accueil pour décrire les clés et laisser vos coordonnées. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-029",
+   "texte": "Votre amie arrive au Canada pour faire ses études. Écrivez-lui un message pour lui donner des conseils sur le climat, les vêtements et les transports. (60 mots minimum / 120 mots maximum)"
+  },
+  {
+   "id": "bank-t1-030",
+   "texte": "Vous voulez inscrire votre fils à un camp d'été. Écrivez au responsable du camp pour lui demander les activités proposées, les horaires et le prix. (60 mots minimum / 120 mots maximum)"
+  }
+ ],
+ "t2": [
+  {
+   "id": "bank-t2-001",
+   "texte": "Vous avez participé à une course à pied organisée au profit d'une association. Vous écrivez un article pour le journal de votre quartier : racontez la journée et dites ce que cette expérience vous a apporté. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-002",
+   "texte": "Vous avez passé un week-end dans un chalet à la montagne avec des amis. Racontez ce séjour sur votre blog et dites si vous le recommanderiez. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-003",
+   "texte": "Vous avez commencé un nouveau travail il y a un mois. Écrivez à un ami pour lui raconter vos premières semaines et lui donner vos impressions sur vos collègues et vos tâches. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-004",
+   "texte": "Vous avez suivi un atelier de cuisine d'un autre pays. Racontez cette expérience sur un forum et dites ce que vous avez appris. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-005",
+   "texte": "Vous avez déménagé dans une nouvelle ville l'année dernière. Vous écrivez un article pour un site d'expatriés : racontez votre installation et les difficultés rencontrées, puis donnez votre avis sur votre nouvelle vie. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-006",
+   "texte": "Vous avez assisté à un festival de musique en plein air. Racontez cette journée sur votre blog : l'ambiance, les artistes, l'organisation. Était-ce une bonne expérience ? (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-007",
+   "texte": "Vous avez accueilli chez vous un étudiant étranger pendant un mois. Racontez cette expérience pour le site de l'organisme d'échange et dites ce que vous en retenez. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-008",
+   "texte": "Vous avez fait du bénévolat dans une banque alimentaire. Racontez une journée de bénévolat dans le bulletin de votre entreprise et encouragez vos collègues à participer. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-009",
+   "texte": "Vous avez décidé de ne plus utiliser les réseaux sociaux pendant un mois. Racontez cette expérience sur un forum : ce qui a été difficile et ce qui a changé dans votre quotidien. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-010",
+   "texte": "Vous avez voyagé seul pour la première fois. Racontez ce voyage sur votre blog et donnez des conseils aux personnes qui hésitent à partir seules. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-011",
+   "texte": "Vous avez participé à un concours de photographie organisé par votre ville. Racontez comment vous avez préparé votre photo et ce que vous avez ressenti le jour des résultats. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-012",
+   "texte": "Vous avez vécu une panne d'électricité de deux jours en plein hiver. Racontez comment vous vous êtes organisé et ce que cette situation vous a appris. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-013",
+   "texte": "Vous avez suivi des cours du soir pour apprendre une nouvelle langue. Racontez cette expérience pour le site de l'école et dites si vous recommandez ce type de formation. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-014",
+   "texte": "Vous avez organisé une grande fête pour l'anniversaire d'un membre de votre famille. Racontez la préparation et le déroulement de la fête à un ami qui n'a pas pu venir. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-015",
+   "texte": "Vous allez maintenant au travail à vélo au lieu de prendre la voiture. Racontez ce changement sur un blog et donnez votre avis sur ses avantages et ses inconvénients. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-016",
+   "texte": "Vous avez participé à une journée de nettoyage d'un parc. Écrivez un article pour le journal local : racontez la journée et expliquez pourquoi ce type d'initiative est utile. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-017",
+   "texte": "Vous avez visité une ferme avec votre famille pendant les vacances. Racontez cette visite sur votre blog : ce que vous avez vu, fait et appris. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-018",
+   "texte": "Vous avez acheté un produit en ligne et la livraison s'est très mal passée. Racontez ce qui est arrivé sur un forum de consommateurs et donnez votre opinion sur ce service. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-019",
+   "texte": "Vous avez assisté à la remise des diplômes d'un proche. Racontez cet événement à un ami et dites ce qui vous a le plus ému. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-020",
+   "texte": "Vous avez participé à un repas partagé avec les voisins de votre immeuble. Racontez cette soirée dans le bulletin de l'immeuble et proposez de recommencer. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-021",
+   "texte": "Vous avez passé un entretien d'embauche important. Racontez à un ami comment il s'est déroulé et dites ce que vous feriez différemment. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-022",
+   "texte": "Vous avez essayé un sport que vous ne connaissiez pas. Racontez votre première séance sur un blog et dites si vous allez continuer. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-023",
+   "texte": "Vous avez passé quelques jours dans une grande ville francophone. Racontez votre séjour pour un site de voyage : les lieux visités, la cuisine, les rencontres. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-024",
+   "texte": "Votre vol a été annulé et vous avez dû passer la nuit à l'aéroport. Racontez cette aventure à un ami et dites comment la compagnie aérienne a géré la situation. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-025",
+   "texte": "Vous avez adopté un animal de compagnie. Racontez vos premières semaines avec lui sur un forum et donnez des conseils aux futurs propriétaires. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-026",
+   "texte": "Vous avez participé à une formation professionnelle de trois jours. Écrivez un compte rendu pour vos collègues : déroulement, contenu et intérêt pour l'équipe. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-027",
+   "texte": "Vous avez assisté à une pièce de théâtre amateur dans votre quartier. Racontez cette soirée pour le journal du quartier et donnez votre opinion sur le spectacle. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-028",
+   "texte": "Pendant un mois, vous avez cuisiné tous vos repas au lieu d'acheter des plats préparés. Racontez cette expérience sur un blog : économies, temps passé, santé. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-029",
+   "texte": "Vous avez aidé un ami à préparer un examen important. Racontez comment vous avez travaillé ensemble et ce que cette expérience vous a apporté. (120 mots minimum / 150 mots maximum)"
+  },
+  {
+   "id": "bank-t2-030",
+   "texte": "Vous avez visité une fête d'hiver organisée dans votre ville. Racontez cette sortie sur votre blog et dites ce qui vous a plu ou déplu. (120 mots minimum / 150 mots maximum)"
+  }
+ ],
+ "t3": [
+  {
+   "id": "bank-t3-001",
+   "titre": "Faut-il interdire les téléphones portables à l'école ?",
+   "doc1": "Depuis que notre collège a interdit les téléphones, l'ambiance a changé. Pendant les récréations, les élèves discutent, jouent au ballon et se parlent à nouveau. Les enseignants constatent aussi qu'ils sont plus attentifs en classe et que les conflits nés sur les réseaux sociaux ont nettement diminué.",
+   "doc2": "Interdire le téléphone ne règle rien : les élèves s'en servent dès la sortie des cours. Mieux vaudrait leur apprendre à l'utiliser de façon responsable. Le téléphone peut d'ailleurs devenir un outil pédagogique pour faire des recherches, et il rassure de nombreux parents en cas d'urgence."
+  },
+  {
+   "id": "bank-t3-002",
+   "titre": "Le télétravail convient-il à tout le monde ?",
+   "doc1": "Travailler de chez soi fait gagner du temps et de l'argent : plus de trajets, moins de stress le matin. Beaucoup de salariés se disent plus concentrés et mieux organisés. Les entreprises, de leur côté, réduisent la taille de leurs bureaux et peuvent recruter des personnes qui vivent loin.",
+   "doc2": "Après deux ans de télétravail, Nadia se sent isolée : « Je ne vois plus mes collègues, tout passe par écrit et j'ai du mal à séparer ma vie privée de ma vie professionnelle. » Plusieurs enquêtes montrent aussi que le travail à distance complique l'intégration des nouveaux employés."
+  },
+  {
+   "id": "bank-t3-003",
+   "titre": "Les transports en commun devraient-ils être gratuits ?",
+   "doc1": "Dans les villes qui ont rendu le bus gratuit, la fréquentation a fortement augmenté. Les familles modestes économisent plusieurs centaines de dollars par an et les centres-villes sont moins encombrés. Pour les élus qui ont fait ce choix, il s'agit d'une mesure à la fois sociale et écologique.",
+   "doc2": "La gratuité a un coût : quelqu'un doit payer les chauffeurs, l'entretien et l'essence. Sans billets, ce sont les impôts qui augmentent. Certains spécialistes rappellent aussi que les usagers attendent surtout des bus plus fréquents et plus ponctuels, plutôt qu'un service gratuit mais saturé."
+  },
+  {
+   "id": "bank-t3-004",
+   "titre": "Faut-il privilégier les produits locaux ?",
+   "doc1": "Acheter des légumes cultivés près de chez soi, c'est soutenir les agriculteurs de la région et réduire les transports. Les produits sont plus frais, souvent plus savoureux, et l'on sait d'où ils viennent. Les marchés de producteurs créent aussi des liens entre la ville et la campagne.",
+   "doc2": "Le « local » n'est pas toujours plus écologique : une tomate cultivée sous serre chauffée en hiver peut polluer davantage qu'une tomate importée. De plus, les produits locaux coûtent souvent plus cher, ce qui les rend inaccessibles à une partie de la population."
+  },
+  {
+   "id": "bank-t3-005",
+   "titre": "Faut-il limiter le nombre de touristes dans les villes très visitées ?",
+   "doc1": "Dans certains quartiers historiques, les habitants ne supportent plus la foule. Les loyers augmentent à cause des locations de courte durée, les commerces de proximité ferment et les rues sont bruyantes jour et nuit. Limiter les visiteurs permettrait de préserver la vie locale.",
+   "doc2": "Le tourisme fait vivre des milliers de familles : hôtels, restaurants, guides, artisans. Réduire le nombre de visiteurs mettrait ces emplois en danger. Plutôt que d'interdire, les villes pourraient mieux répartir les touristes dans l'année et encourager la découverte d'autres quartiers."
+  },
+  {
+   "id": "bank-t3-006",
+   "titre": "La semaine de quatre jours est-elle une bonne idée ?",
+   "doc1": "Dans l'entreprise de Marc, on travaille désormais quatre jours par semaine. Les employés sont plus reposés, les absences ont diminué et la production n'a pas baissé. « Ce troisième jour de repos m'a rendu plus motivé », explique-t-il.",
+   "doc2": "Pour de nombreux métiers, la semaine de quatre jours est difficile à appliquer : les hôpitaux, les écoles ou les commerces doivent rester ouverts. Concentrer le même travail en moins de jours peut aussi rendre les journées très longues et augmenter la fatigue."
+  },
+  {
+   "id": "bank-t3-007",
+   "titre": "Les jeux vidéo sont-ils mauvais pour les jeunes ?",
+   "doc1": "Selon certains psychologues, passer plusieurs heures par jour devant des jeux vidéo nuit au sommeil, à la concentration et à l'activité physique des adolescents. Les parents s'inquiètent aussi des jeux violents et des achats intégrés qui poussent à dépenser.",
+   "doc2": "Les jeux vidéo développent aussi des compétences : réflexes, logique, travail en équipe, parfois même l'apprentissage de l'anglais. Beaucoup de jeunes y retrouvent leurs amis. Tout dépend du temps passé et du type de jeu, et c'est aux adultes d'accompagner cette pratique."
+  },
+  {
+   "id": "bank-t3-008",
+   "titre": "Partager un logement entre adultes : une bonne idée ?",
+   "doc1": "Avec la hausse des loyers, de plus en plus d'adultes de trente ou quarante ans partagent un appartement. Ils divisent le loyer, mais partagent aussi les repas et les soirées. Pour beaucoup, c'est une façon de lutter contre la solitude dans les grandes villes.",
+   "doc2": "Partager un logement demande des compromis permanents : le ménage, le bruit, les horaires de chacun. Avec l'âge, beaucoup de personnes ont besoin d'intimité et d'un espace à elles. Les conflits entre colocataires sont d'ailleurs une cause fréquente de déménagement."
+  },
+  {
+   "id": "bank-t3-009",
+   "titre": "Peut-on apprendre une langue avec une application ?",
+   "doc1": "Les applications d'apprentissage permettent de pratiquer dix minutes par jour, dans le bus ou pendant la pause. Elles sont ludiques, peu chères et s'adaptent au niveau de chacun. Pour beaucoup d'utilisateurs, c'est la régularité qui fait la différence.",
+   "doc2": "Une application ne remplace pas un vrai professeur : on y apprend des mots isolés, mais on parle très peu. Or, pour communiquer, il faut s'exprimer, se tromper et être corrigé. Les enseignants conseillent donc de les utiliser seulement comme un complément."
+  },
+  {
+   "id": "bank-t3-010",
+   "titre": "Faut-il manger moins de viande ?",
+   "doc1": "Les nutritionnistes recommandent de réduire la consommation de viande rouge, liée à certaines maladies. L'élevage intensif produit en outre une grande quantité de gaz à effet de serre. Remplacer la viande deux ou trois fois par semaine par des légumineuses serait bon pour la santé et pour la planète.",
+   "doc2": "Pour Lucie, éleveuse dans une petite ferme, il ne faut pas tout mélanger : « Une viande produite localement, en petite quantité, n'a rien à voir avec l'élevage industriel. » Elle rappelle aussi que la viande apporte des nutriments importants et fait partie de nombreuses traditions culinaires."
+  },
+  {
+   "id": "bank-t3-011",
+   "titre": "L'uniforme scolaire devrait-il être obligatoire ?",
+   "doc1": "Dans les écoles où l'uniforme est obligatoire, les élèves ne se jugent plus sur leurs vêtements et les familles n'ont pas à acheter des habits de marque. L'uniforme renforce aussi le sentiment d'appartenance à l'établissement.",
+   "doc2": "Imposer un uniforme, c'est priver les jeunes d'un moyen d'exprimer leur personnalité. Il représente aussi une dépense supplémentaire pour les parents, qui doivent l'acheter en plus des vêtements du quotidien. Enfin, les inégalités ne disparaissent pas : elles se voient ailleurs."
+  },
+  {
+   "id": "bank-t3-012",
+   "titre": "La voiture électrique est-elle la solution pour l'environnement ?",
+   "doc1": "Une voiture électrique ne rejette aucun gaz polluant en ville. Elle est silencieuse, coûte moins cher à l'usage et, lorsque l'électricité vient de sources renouvelables, son impact sur le climat est bien plus faible que celui d'une voiture à essence.",
+   "doc2": "Fabriquer une batterie demande beaucoup d'énergie et des métaux extraits dans des conditions souvent difficiles. Le prix d'achat reste élevé, et les bornes de recharge manquent encore en dehors des villes. Pour certains experts, la vraie solution est de moins utiliser la voiture."
+  },
+  {
+   "id": "bank-t3-013",
+   "titre": "Vaut-il mieux vivre à la campagne qu'en ville ?",
+   "doc1": "Depuis qu'ils ont quitté la ville, Paul et sa famille respirent : une maison plus grande pour le même prix, un jardin, du calme et la nature tout autour. Les enfants jouent dehors et le stress des embouteillages n'est plus qu'un souvenir.",
+   "doc2": "Vivre à la campagne signifie souvent dépendre de la voiture : l'école, le médecin et les commerces sont loin. Les services publics y sont moins nombreux et l'offre culturelle est limitée. Pour beaucoup de jeunes, la ville reste le meilleur endroit pour trouver du travail."
+  },
+  {
+   "id": "bank-t3-014",
+   "titre": "Faut-il préférer les commerces de proximité aux achats en ligne ?",
+   "doc1": "Acheter en ligne, c'est comparer les prix en quelques clics et se faire livrer à domicile. Pour les personnes qui travaillent beaucoup ou qui ont du mal à se déplacer, c'est un gain de temps et de confort considérable.",
+   "doc2": "Chaque fois qu'un petit commerce ferme, c'est une rue qui perd de sa vie. Les commerçants de quartier connaissent leurs clients, donnent des conseils et créent des emplois sur place. Les livraisons multiples ont aussi un coût écologique que l'on oublie souvent."
+  },
+  {
+   "id": "bank-t3-015",
+   "titre": "Peut-on avoir un animal de compagnie en appartement ?",
+   "doc1": "Un chat ou un petit chien peut très bien vivre en appartement, à condition de lui consacrer du temps. Pour les personnes seules ou âgées, un animal apporte de la compagnie et une raison de sortir chaque jour.",
+   "doc2": "Beaucoup d'animaux souffrent du manque d'espace et de la solitude quand leurs maîtres travaillent toute la journée. Les aboiements dérangent aussi les voisins. Selon certains vétérinaires, avant d'adopter, il faut se demander si son mode de vie convient vraiment à un animal."
+  },
+  {
+   "id": "bank-t3-016",
+   "titre": "Les élèves devraient-ils utiliser l'intelligence artificielle pour leurs devoirs ?",
+   "doc1": "Pour certains enseignants, interdire l'intelligence artificielle est inutile : les élèves l'utiliseront de toute façon dans leur vie professionnelle. Mieux vaut leur apprendre à s'en servir pour chercher des idées, vérifier une explication ou corriger leurs erreurs.",
+   "doc2": "Si une machine rédige les devoirs, l'élève n'apprend plus à réfléchir ni à écrire par lui-même. Les professeurs ont aussi du mal à évaluer le travail réel de chacun. Certains établissements reviennent donc aux devoirs faits en classe, à la main."
+  },
+  {
+   "id": "bank-t3-017",
+   "titre": "Faut-il faire une année de pause avant les études supérieures ?",
+   "doc1": "Après le secondaire, Inès a pris un an pour travailler et voyager. « J'ai mûri, j'ai découvert ce qui me plaisait vraiment et j'ai commencé l'université beaucoup plus motivée. » De nombreux étudiants racontent la même chose.",
+   "doc2": "Une année de pause n'est pas accessible à tout le monde : voyager coûte cher, et certains jeunes perdent l'habitude d'étudier. Les conseillers d'orientation rappellent qu'il vaut mieux préparer cette année avec un vrai projet plutôt que de la vivre comme de simples vacances."
+  },
+  {
+   "id": "bank-t3-018",
+   "titre": "Accueillir un grand événement sportif est-il une chance pour une ville ?",
+   "doc1": "Organiser une grande compétition internationale attire des visiteurs du monde entier, fait connaître la ville et accélère la construction de nouvelles infrastructures : stades, transports, logements. Les commerçants profitent aussi de l'affluence.",
+   "doc2": "Les grands événements sportifs coûtent souvent beaucoup plus cher que prévu, et ce sont les habitants qui paient. Après la compétition, certains stades restent vides et les quartiers rénovés deviennent trop chers pour les familles qui y vivaient."
+  },
+  {
+   "id": "bank-t3-019",
+   "titre": "Les étudiants devraient-ils travailler pendant leurs études ?",
+   "doc1": "Avoir un petit emploi pendant ses études permet de payer son loyer, de gagner en autonomie et d'acquérir une première expérience professionnelle. Les employeurs apprécient les candidats qui ont déjà travaillé.",
+   "doc2": "Travailler plus de quinze heures par semaine nuit souvent aux résultats : les étudiants manquent de temps pour réviser et sont fatigués. Pour certains spécialistes, il faudrait plutôt augmenter les bourses afin que chacun puisse se concentrer sur ses études."
+  },
+  {
+   "id": "bank-t3-020",
+   "titre": "Les caisses automatiques sont-elles un progrès ?",
+   "doc1": "Grâce aux caisses automatiques, les clients font la queue moins longtemps et passent en caisse à leur rythme. Pour les supermarchés, c'est aussi un moyen de rester ouverts plus tard sans augmenter les coûts.",
+   "doc2": "Derrière les caisses automatiques, ce sont des emplois qui disparaissent. Les clients âgés ou peu habitués à la technologie se sentent perdus, et le contact humain, parfois le seul de la journée pour certaines personnes, n'existe plus."
+  }
+ ]
+}
