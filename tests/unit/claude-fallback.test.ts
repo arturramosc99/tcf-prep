@@ -30,3 +30,11 @@ test('structured() uses the CLI only when CLAUDE_CLI_FALLBACK=1', async () => {
   assert.deepEqual(await structured('x', { type: 'object' }, 's'), { ok: true });
   delete process.env.CLAUDE_CLI_FALLBACK;
 });
+
+test('a CLI that exits before reading the prompt is not a crash', async () => {
+  // the fake CLI never reads stdin: a prompt larger than the pipe buffer hits a closed pipe (EPIPE)
+  process.env.CLAUDE_CLI_FALLBACK = '1';
+  const { structured } = await import('../../lib/claude');
+  assert.deepEqual(await structured('x'.repeat(500_000), { type: 'object' }, 's'), { ok: true });
+  delete process.env.CLAUDE_CLI_FALLBACK;
+});

@@ -97,6 +97,9 @@ function viaCli<T>(prompt: string, schema: object, system: string): Promise<T> {
         reject(new Error(`No valid answer from the claude CLI. ${err.slice(0, 300)}`));
       }
     });
+    // a CLI that quits early (not logged in, bad flag) closes stdin: the write fails with EPIPE. That is not the
+    // error to report — 'close' above reports what the CLI said.
+    p.stdin.on('error', () => {});
     p.stdin.end(prompt);
   });
 }
