@@ -1,5 +1,7 @@
 # TCF Prep
 
+[![CI](https://github.com/arturramosc99/tcf-prep/actions/workflows/ci.yml/badge.svg)](https://github.com/arturramosc99/tcf-prep/actions/workflows/ci.yml)
+
 Practise the **TCF Canada** *Expression écrite* and *Expression orale* in exam conditions, get every text and
 every spoken answer corrected by AI, and turn your recurring mistakes into flashcards.
 
